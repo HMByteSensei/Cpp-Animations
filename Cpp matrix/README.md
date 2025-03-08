@@ -4,7 +4,7 @@ This is a C++ program that simulates the **Matrix digital rain** effect in the t
 
 ## Preview
 
-https://github.com/user-attachments/assets/77dfc7b7-bc77-4b8e-a59d-764c90fccbef
+https://github.com/user-attachments/assets/4797c5ca-5566-44c5-ab52-4b811178c80c
 
 ## Features
 - Text changes colors randomly
